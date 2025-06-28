@@ -9,7 +9,7 @@ I'm a passionate **Junior Data Scientist** and aspiring **Front-End Developer** 
 - 🌱 Currently learning: **HTML, CSS, JavaScript, React, and Machine Learning**
 - 🔭 Working on: **Interactive data dashboards and a personal portfolio website**
 - 🌍 Languages: **Python, SQL, HTML/CSS, JavaScript (learning), English, Twi**
-- 📫 How to reach me: **miriam.norvor@gmail.com**
+- 📫 How to reach me: **vilmiriam@gmail.com**
 - ⚡ Fun fact: **I blend tax accounting with tech — and still find time to cook a mean jollof!**
 
 
