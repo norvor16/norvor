@@ -1,6 +1,6 @@
 # Hi there, I'm Miriam Norvor! 👋
 
-![Banner Image](blob:https://imgur.com/db5b13fa-93b4-4f93-bd25-d3ad61f9bf3c)
+![Banner Image](https://github.com/norvor16/norvor/blob/main/Banner%20Image.png?raw=true)
 
 ## About Me 🚀
 
